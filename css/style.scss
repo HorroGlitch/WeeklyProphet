@@ -1,0 +1,15 @@
+section {
+    display: flex;
+    flex-direction: column;
+       align-items: left;
+       justify-content: center;
+
+    h2{
+        text-transform: uppercase;
+    }
+   
+    &__p{
+       
+        width: 500px;
+    }
+}
